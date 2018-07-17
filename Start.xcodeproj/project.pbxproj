@@ -13,6 +13,7 @@
 		CE6708A920E603F7005D6DCC /* Start.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CE6708A720E603F7005D6DCC /* Start.xcdatamodeld */; };
 		CE6708AB20E603F7005D6DCC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE6708AA20E603F7005D6DCC /* Assets.xcassets */; };
 		CE6708AE20E603F7005D6DCC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE6708AC20E603F7005D6DCC /* LaunchScreen.storyboard */; };
+		CEAF57B020FE14D400E929C7 /* django.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEAF57AF20FE14D400E929C7 /* django.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CE6708AA20E603F7005D6DCC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE6708AD20E603F7005D6DCC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE6708AF20E603F7005D6DCC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEAF57AF20FE14D400E929C7 /* django.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = django.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				CE6708A020E603F7005D6DCC /* AppDelegate.swift */,
 				CE6708A220E603F7005D6DCC /* ViewController.swift */,
+				CEAF57AF20FE14D400E929C7 /* django.swift */,
 				CE6708A420E603F7005D6DCC /* Main.storyboard */,
 				CE6708AA20E603F7005D6DCC /* Assets.xcassets */,
 				CE6708AC20E603F7005D6DCC /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			files = (
 				CE6708A320E603F7005D6DCC /* ViewController.swift in Sources */,
 				CE6708A920E603F7005D6DCC /* Start.xcdatamodeld in Sources */,
+				CEAF57B020FE14D400E929C7 /* django.swift in Sources */,
 				CE6708A120E603F7005D6DCC /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
